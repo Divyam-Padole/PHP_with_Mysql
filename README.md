@@ -1,10 +1,7 @@
 # PHP_with_Mysql
-Database connection using PHP,MySql and XAMPP Enviroment
-Your PHP project appears to be a simple travel form that collects user information such as name, age, gender, contact number, email, and additional details. The data is then inserted into a MySQL database using XAMPP as the local development environment.
+      **Database connection using PHP,MySql and XAMPP Enviroment**
+PHP project with simple travel form that collects user information such as name, age, gender, contact number, email, and additional details. The data is then inserted into a MySQL database using XAMPP as the local development environment.
 
-Here's a brief description you can use for GitHub:
-
----
 
 ## Travel Form PHP Project
 
@@ -26,9 +23,9 @@ This PHP project is a basic web application for collecting travel information fr
 
 ### Structure:
 
-- **`index.php`:** Main file containing the HTML form and PHP logic for data submission.
+- **`index.php`:** Main file containing the HTML form and PHP logic for data submission html is written php only.
 - **`style.css`:** CSS file for styling the HTML form.
-- **`index.js`:** JavaScript file (empty in the provided code; can be expanded for additional functionality).
+
 
 ### Additional Notes:
 
@@ -37,4 +34,3 @@ This PHP project is a basic web application for collecting travel information fr
 
 ---
 
-Feel free to customize this description based on additional features or details specific to your project. Additionally, you may want to include documentation on how to set up the project, configure the database, and any other relevant information for contributors or users.
