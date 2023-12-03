@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    width: 89%;
+}
+.container
+{
+    width: 100%;
+    background-color: rgb(155, 155, 237);
+    padding: 20px;
+   
+    margin: auto;       /*     to make the container center */
+}
+.container h3,p{
+    text-align: center;
+
+}
+p{
+    font-size: 12px;
+}
+input, textarea {
+    display: block solid black;
+    border-radius: 4px;
+    outline: none;
+    border: 2px;
+    width: 110%;
+    margin: 14px auto;
+    margin: 11px;
+}
+.btn{
+
+    width: 50%;
+    margin: 2px;
+    background-color: purple;
+    cursor: pointer;
+
+}
+form{
+    display: auto;
+    
+    flex-direction: column;
+    justify-content: center;
+}
